@@ -18,5 +18,10 @@ namespace testingmvc.Controllers
         {
             return View();
         }
+
+        public ActionResult Second()
+        {
+            return View();
+        }
     }
 }
